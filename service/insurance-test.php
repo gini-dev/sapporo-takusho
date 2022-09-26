@@ -2,6 +2,8 @@
 		<!-- l-page_content -->
 		<section class="l-page_content">
 
+			<p>コード挿入テスト</p>
+
 			<div class="l-page_head">
 				<div class="l-page_head__inner">
 					<h2 class="p-heading_lv1">保険について</h2>
