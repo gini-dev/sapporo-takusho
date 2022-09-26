@@ -1,0 +1,1 @@
+var HARIOS;HARIOS||(HARIOS={}),HARIOS.top||(HARIOS.top={}),function(){HARIOS.top.functionName=function(){}}(),$(function(){$(".slick__list").slick({centerMode:!0,centerPadding:"16%",slidesToShow:1,dots:!0,prevArrow:'<i class="p-icon--arrow_l_01 slick-prev"></i>',nextArrow:'<i class="p-icon--arrow_r_01 slick-next"></i>',arrows:!0,autoplay:!0})});

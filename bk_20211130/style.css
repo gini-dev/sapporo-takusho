@@ -1,0 +1,18 @@
+/*
+Theme Name: takusho
+Theme URL: 
+Description: 
+Author: 
+Version: 1.1
+*/
+/***20210902スラッシュ追加***/
+    article.post .thumb img{
+        display: block;
+        margin: 0 auto;
+    }
+
+@media screen and (min-width: 755px){
+    article.post .thumb img{
+        max-height: 190px;
+    }
+}
